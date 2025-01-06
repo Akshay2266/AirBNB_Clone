@@ -2,3 +2,4 @@ I am Working on it, as we had to Submit only the React End for the Week 1. But, 
 Thank You
 #Edit: 
 Update_1 - The Project Repo is Completed & the Server code is implemented to the main branch for Week 2 submission :)
+Update_2 - The Project is Completely Optimized & Integrated with the Backend. It works perfectly Fine. ;)
